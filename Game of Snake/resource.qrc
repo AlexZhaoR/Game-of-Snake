@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>apple.png</file>
+        <file>i1.jpng</file>
+        <file>i2.jpng</file>
+        <file>i3.jpng</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>Electro-session-ambient-electronic-lounge-music.mp3</file>
+        <file>eff.wav</file>
+        <file>die.wav</file>
+    </qresource>
+</RCC>
